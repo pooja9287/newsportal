@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  font-family:serif;
+  color: inherit;
+  color: red;
+}
+img{
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  border:20px solid black;
+}
